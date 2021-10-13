@@ -1,13 +1,11 @@
-h2.intro {
+.intro {
+  display: block;
+  margin: 0 auto;
+  color: red;
   font-style: italic;
 }
 
-p.intro {
-  color: red
-}
-
-img.intro {
+.image {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }

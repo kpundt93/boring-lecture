@@ -2,7 +2,7 @@
 
 #### _A page for a boring lecture_
 
-#### By _**Michael Watkins**__**Ella Tanttu**__**Katie Pundt**_
+#### By _**Michael Watkins**_ _**Ella Tanttu**_ _**Katie Pundt**_
 
 ## Technologies Used
 
